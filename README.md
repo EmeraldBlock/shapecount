@@ -7,15 +7,15 @@ Configurations by depth of manufacturing tree (longest sequence of operations). 
 |Depth|New|Cumulative|
 |---|---|---|
 |0|1|1|
-|1|8|7|
-|2|56|48|
-|3|1512|1456|
-|4|28116|26604|
-|5|30692|2576|
-|6|40710|10018|
-|7|47176|6466|
-|8|48368|1192|
-|9|48432|64|
+|1|7|8|
+|2|48|56|
+|3|1456|1512|
+|4|26604|28116|
+|5|2576|30692|
+|6|10018|40710|
+|7|6466|47176|
+|8|1192|48368|
+|9|64|48432|
 
 Configurations and shapes by number of quads.
 |Quads|Configurations|Shapes|
