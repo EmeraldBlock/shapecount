@@ -5,7 +5,7 @@ Below is a summary of the results:
 
 Configurations by depth of manufacturing tree (longest sequence of operations). This ignores quad types and colors.
 |Depth|New|Cumulative|
-|---|---|---|
+|-:|-:|-:|
 |0|1|1|
 |1|7|8|
 |2|48|56|
@@ -19,7 +19,7 @@ Configurations by depth of manufacturing tree (longest sequence of operations). 
 
 Configurations and shapes by number of quads.
 |Quads|Configurations|Shapes|
-|---|---|---|
+|-:|-:|-:|
 |0|0|0|
 |1|4|128|
 |2|18|18432|
